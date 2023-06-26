@@ -1,0 +1,12 @@
+# ignore all .log files
+*.log
+
+# ignore slurm log files
+slurm*.out
+
+#ignore data or result files
+*.pdf
+*.png
+*.zip
+*.txt
+*.gz
